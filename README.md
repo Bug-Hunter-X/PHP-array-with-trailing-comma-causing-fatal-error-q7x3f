@@ -1,0 +1,2 @@
+# PHP array with trailing comma causing fatal error
+This code demonstrates an uncommon error in PHP related to trailing commas in arrays.  A trailing comma in an array definition can lead to unexpected behavior and a fatal error, especially when used with functions that expect a valid array structure. This error might not always produce an explicit error message, which can make it tricky to diagnose.
